@@ -39,7 +39,6 @@ const validOptionNames = [
   "bufferMaxEntries",
   "readPreference",
   "pkFactory",
-  "promiseLibrary",
   "readConcern",
   "maxStalenessSeconds",
   "loggerLevel",
