@@ -20,9 +20,9 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.3",
-    "cache-manager": "^3.4.3",
+    "cache-manager": "5.2.3",
     "lodash": "^4.17.15",
-    "mongodb": "^3.6.6"
+    "mongodb": "^4.17.1"
   },
   "devDependencies": {
     "cache-manager": "^3.4.0",
@@ -30,6 +30,6 @@
     "grunt-contrib-jshint": "^3.0.0",
     "jshint-stylish": "^2.2.1",
     "load-grunt-tasks": "^5.1.0",
-    "mocha": "^8.2.1"
+    "mocha": "^10.2.0"
   }
 }
